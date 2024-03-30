@@ -1,4 +1,4 @@
-#Mapping Engine
+# Mapping Engine
 A mapping engine and tags mapping for a catalog are components designed to organize and categorize information about products, brands, and sellers within a catalog or marketplace. These components help improve searchability, navigation, and overall user experience. Here's a brief overview:
 
 Mapping Engine:
